@@ -1,0 +1,15 @@
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.deps.json
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.dll
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.pdb
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csproj.AssemblyReference.cache
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfoInputs.cache
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfo.cs
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.dll
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\refint\MorseCode.dll
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.pdb
+C:\Users\Sumin\source\repos\MorseCode\MorseCode\MorseCode\obj\Debug\netstandard2.0\ref\MorseCode.dll

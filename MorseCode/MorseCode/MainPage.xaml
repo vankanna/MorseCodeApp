@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MorseCode.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Morse Code" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Editor x:Name="userinput" Placeholder="userinput"/>
+        <Editor x:Name="dotdash" />
+        <Button x:Name="button1" Text="Dot"  WidthRequest="50" Clicked="Handle_Clicked" />
+        <Button x:Name="button2" Text="Dash" WidthRequest="50" Clicked="Handle_Clicked"/>
+        <Button x:Name="button3" Text="Gap" WidthRequest="50" Clicked="Handle_Clicked" />
+    </StackLayout>
+
+</ContentPage>
